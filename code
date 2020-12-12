@@ -5,7 +5,7 @@ from urllib import request
 from urllib.error import HTTPError
 
 
-WEBHOOK_URL = 'https://discordapp.com/api/webhooks/xxx/yyy'
+WEBHOOK_URL = 'https://discord.com/api/webhooks/787230975716622347/0CzLbCukBFFQZi4hTVDneCaJVVYW_fWrnJQnCi1psmkaHSldSilxs3cUMG1LoLBRybFG'
 
 # La payload
 payload = {
